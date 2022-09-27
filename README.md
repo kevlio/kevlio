@@ -1,4 +1,4 @@
-![](https://github.com/kevlio/kevlio/blob/main/kevlio-portfolio.png?raw=true)
+![](https://github.com/kevlio/kevlio/blob/main/kevlio.png?raw=true)
 
 # Hi, I'm Kevin, Web Dev 👋
 ### I'm a Web Development Student at [Changemakers](https://cmeducations.se/utbildningar/program/frontend-app-developer). <br/> I'm driven by ideas and the possibilites of Computer Science. Background in Civil Engineering, by and large as Management Consultant. 📍 Stockholm, Sweden. Welcome to visit my [Portfolio.](https://kevl.io/)
