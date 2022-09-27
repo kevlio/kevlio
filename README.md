@@ -5,9 +5,9 @@
 
 <table>
   <thead>
-    <th>Languages</th>
+    <th>Frontend</th>
+    <th>Backend/Server</th>
     <th>Frameworks</th>
-    <th>UI/UX-Design</th>
   </thead>
   <tbody>
     <td>
@@ -17,35 +17,43 @@
         <li>HTML</li>
       </ul>
     </td>
-    <td>
+     <td>
       <ul>
+        <li>Node.js</li>
+        <li>SQL</li>
+      </ul>
+    </td>
+     <td>
+       <ul>
         <li>React</li>
         <li>Next.js</li>
         <li>Vue</li>
-      </ul>
-    </td>
-        <td>
-      <ul>
-        <li>Chakra UI</li>
-        <li>Three.js</li>
-        <li>Figma</li>
+        <li>Express</li>
       </ul>
     </td>
   </tbody>
 </table>
 <table>
   <thead>
-    <th>Backend/Server</th>
-    <th>Platforms/Other</th>
-    <th>Soft Skills/Languages</th>
+    <th>Libraries</th>
+    <th>UI/UX-design</th>
+    <th>Other</th>
+
   </thead>
   <tbody>
-    <td>
+      <td>
       <ul>
-        <li>Node.js</li>
-        <li>Express</li>
-        <li>Socket.IO</li>
-        <li>SQL</li>
+        <li>Recoil</li>
+        <li>Recharts</li>
+         <li>Socket.IO</li>
+      </ul>
+    </td>
+       <td>
+      <ul>
+        <li>Chakra UI</li>
+        <li>Three.js</li>
+        <li>Framer motion</li>
+        <li>Figma</li>
       </ul>
     </td>
     <td>
@@ -56,18 +64,12 @@
         <li>SAP</li>
       </ul>
     </td>
-        <td>
-      <ul>
-        <li>Swedish - Native</li>
-        <li>Spanish - Professional</li>
-        <li>English - Full Professional</li>
-      </ul>
-    </td>
   </tbody>
 </table>
 <table>
   <thead>
     <th>Work Experience</th>
+        <th>Languages</th>
   </thead>
   <tbody>
     <td>
@@ -79,11 +81,20 @@
         <li>Site Supervisor</li>
       </ul>
     </td>
+    <td>
+      <ul>
+        <li>Swedish - Native</li>
+        <li>Spanish - Professional</li>
+        <li>English - Full Professional</li>
+      </ul>
+    </td>
   </tbody>
 </table>
+
+## Get in touch: 
 <div>
   <a href="mailto:kevin.lundberg.se@gmail.com">
-    <img src="https://www.gstatic.com/images/branding/product/1x/hh_gmail_64dp.png" width="40px" heigth="40px" alt="Gmail"/>
+    <img src="https://www.gstatic.com/images/branding/product/1x/hh_gmail_64dp.png" width="40px" heigth="40px" alt="Gmail" />
   </a>
     <a href="https://kevl.io/">
     <img src="https://www.pngkey.com/png/full/19-199475_website-logo-png-website-clipart-png.png" width="40px" heigth="40px" alt="Website"/>
