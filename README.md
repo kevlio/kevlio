@@ -68,7 +68,7 @@
 </table>
 <table>
   <thead>
-    <th>Work Experience</th>
+    <th>Work Experience (Civil Eng.)</th>
         <th>Languages</th>
   </thead>
   <tbody>
