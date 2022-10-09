@@ -68,19 +68,9 @@
 </table>
 <table>
   <thead>
-    <th>Work Experience (Civil Eng.)</th>
         <th>Languages</th>
   </thead>
   <tbody>
-    <td>
-      <ul>
-        <li>Project Manager</li>
-        <li>Project Controller</li>
-        <li>Structural Engineer</li>
-        <li>Site Manager</li>
-        <li>Site Supervisor</li>
-      </ul>
-    </td>
     <td>
       <ul>
         <li>Swedish - Native</li>
