@@ -1,7 +1,7 @@
 ![](https://github.com/kevlio/kevlio/blob/main/kevlio.png?raw=true)
 
-# Hi, I'm Kevin, Web Dev 👋
-### I'm a Web Development Student at [Changemakers](https://cmeducations.se/utbildningar/program/frontend-app-developer). <br/> I'm driven by ideas and the possibilites of Computer Science. Background in Civil Engineering, by and large as Management Consultant. 📍 Stockholm, Sweden. Welcome to visit my [Portfolio.](https://kevl.io/)
+# Hi, I'm Kevin, Future Web Dev 👋
+### Student at [Changemakers](https://cmeducations.se/utbildningar/program/frontend-app-developer). <br/> I'm driven by ideas and the possibilites of Computer Science. Background in Civil Engineering. Most repositories are school assignements/exercises with a personal touch (mostly not refactored due to time frame). Current/future explorations are to take my React to the next level, as well learn TypeScript and React Native. Welcome to visit my [Portfolio.](https://kevl.io/). 📍 Stockholm, Sweden. 
 
 <table>
   <thead>
