@@ -1,7 +1,7 @@
 ![](https://github.com/kevlio/kevlio/blob/main/kevlio.png?raw=true)
 
-# Hi, I'm Kevin, Future Web Dev 👋
-### Student at [Changemakers](https://cmeducations.se/utbildningar/program/frontend-app-developer). <br/> I'm driven by ideas and the possibilites of Computer Science. Background in Civil Engineering. Most repositories are school assignements/exercises with a personal touch (mostly not refactored due to time frame). Current/future explorations are to take my React to the next level, as well learn TypeScript and React Native. Welcome to visit my [Portfolio.](https://kevl.io/). 📍 Stockholm, Sweden. 
+# Hi, I'm Kevin, Web Dev student👋
+### Currently studying Frontend and App Development at [Changemakers Educations](https://cmeducations.se/utbildningar/program/frontend-app-developer). I'm driven by ideas and the possibilites of Computer Science. Background in Civil Engineering, by and large as a consultant. <br/> 📍 Stockholm, Sweden
 
 <table>
   <thead>
@@ -12,6 +12,7 @@
   <tbody>
     <td>
       <ul>
+        <li>Typescript</li>
         <li>JavaScript</li>
         <li>CSS</li>
         <li>HTML</li>
@@ -35,59 +36,34 @@
 </table>
 <table>
   <thead>
-    <th>Libraries</th>
-    <th>UI/UX-design</th>
-    <th>Other</th>
-
-  </thead>
-  <tbody>
-      <td>
-      <ul>
-        <li>Recoil</li>
-        <li>Recharts</li>
-         <li>Socket.IO</li>
-      </ul>
-    </td>
-       <td>
-      <ul>
-        <li>Chakra UI</li>
-        <li>Three.js</li>
-        <li>Framer motion</li>
-        <li>Figma</li>
-      </ul>
-    </td>
-    <td>
-      <ul>
-        <li>Heroku</li>
-        <li>Netlify</li>
-        <li>Power BI</li>
-        <li>SAP</li>
-      </ul>
-    </td>
-  </tbody>
-</table>
-<table>
-  <thead>
+    <th>Work Experience</th>
         <th>Languages</th>
   </thead>
   <tbody>
     <td>
       <ul>
+        <li>Project Manager</li>
+        <li>Project Controller</li>
+        <li>Structural Engineer</li>
+        <li>Site Manager</li>
+        <li>Site Supervisor</li>
+      </ul>
+    </td>
+    <td>
+      <ul>
         <li>Swedish - Native</li>
-        <li>Spanish - Professional</li>
         <li>English - Full Professional</li>
+        <li>Spanish - Professional</li>
+        <li>German - Elementary</li>
       </ul>
     </td>
   </tbody>
 </table>
 
-## Get in touch: 
+## Please feel free to contact me at: 
 <div>
-  <a href="mailto:kevin.lundberg.se@gmail.com">
-    <img src="https://www.gstatic.com/images/branding/product/1x/hh_gmail_64dp.png" width="40px" heigth="40px" alt="Gmail" />
-  </a>
-    <a href="https://kevl.io/">
-    <img src="https://www.pngkey.com/png/full/19-199475_website-logo-png-website-clipart-png.png" width="40px" heigth="40px" alt="Website"/>
+  <a href="mailto:kevin.lundberg@sweco.se">
+    <img src="https://cdn0.iconfinder.com/data/icons/material-circle-apps/512/icon-email-material-design-512.png" width="40px" heigth="40px" alt="Gmail" />
   </a>
   <a href="https://www.linkedin.com/in/kevin-lundberg-991862137/">
     <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/linkedin-round-color-icon.png" width="40px" heigth="40px"  alt="LinkedIn"/>
