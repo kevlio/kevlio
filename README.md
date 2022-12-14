@@ -1,71 +1,15 @@
-![](https://github.com/kevlio/kevlio/blob/main/kevlio.png?raw=true)
+### Hi there 👋
 
-# Hi, I'm Kevin, Web Dev student👋
-### Currently studying Frontend and App Development at [Changemakers Educations](https://cmeducations.se/utbildningar/program/frontend-app-developer). I'm driven by ideas and the possibilites of Computer Science. Background in Civil Engineering, by and large as a consultant. <br/> 📍 Stockholm, Sweden
+My name is Kevin, 29 years old based in Stockholm. <br/> Background in Civil Engineering and currently working at [Sweco](https://www.sweco.se/en/) as a consultant. Started my development journey in 2021 playing around with Python, and then decided to continue as a full time Web Development student at [Changemakers Educations](https://cmeducations.se/utbildningar/program/frontend-app-developer). I'm a proud generalist who loves the investigate and build things.
 
-<table>
-  <thead>
-    <th>Frontend</th>
-    <th>Backend/Server</th>
-    <th>Frameworks</th>
-  </thead>
-  <tbody>
-    <td>
-      <ul>
-        <li>Typescript</li>
-        <li>JavaScript</li>
-        <li>CSS</li>
-        <li>HTML</li>
-      </ul>
-    </td>
-     <td>
-      <ul>
-        <li>Node.js</li>
-        <li>SQL</li>
-      </ul>
-    </td>
-     <td>
-       <ul>
-        <li>React</li>
-        <li>Next.js</li>
-        <li>Vue</li>
-        <li>Express</li>
-      </ul>
-    </td>
-  </tbody>
-</table>
-<table>
-  <thead>
-    <th>Work Experience</th>
-        <th>Languages</th>
-  </thead>
-  <tbody>
-    <td>
-      <ul>
-        <li>Project Manager</li>
-        <li>Project Controller</li>
-        <li>Structural Engineer</li>
-        <li>Site Manager</li>
-        <li>Site Supervisor</li>
-      </ul>
-    </td>
-    <td>
-      <ul>
-        <li>Swedish - Native</li>
-        <li>English - Full Professional</li>
-        <li>Spanish - Professional</li>
-        <li>German - Elementary</li>
-      </ul>
-    </td>
-  </tbody>
-</table>
+- 6 years in Civil Engineering
+- 1.5 years studying Web Development
+- Frontend: React
+- Backend: Node, Express, SQL
+- Currently learning: Typescript, Tailwind, testing
+- Trilingual: Swedish, Spanish, English
+- A LOT OF HOBBIES =)
 
-## Please feel free to contact me at: 
-<div>
-  <a href="mailto:kevin.lundberg@sweco.se">
-    <img src="https://cdn0.iconfinder.com/data/icons/material-circle-apps/512/icon-email-material-design-512.png" width="40px" heigth="40px" alt="Gmail" />
-  </a>
-  <a href="https://www.linkedin.com/in/kevin-lundberg-991862137/">
-    <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/linkedin-round-color-icon.png" width="40px" heigth="40px"  alt="LinkedIn"/>
-  </a>
-</div>
+Please feel free to contact me at: <br/> 
+[kevin.lundberg@sweco.se](mailto:kevin.lundberg@sweco.se) or
+[LinkedIn](https://www.linkedin.com/in/kevin-lundberg-991862137)
